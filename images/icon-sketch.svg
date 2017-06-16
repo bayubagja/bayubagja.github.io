@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Flat Copyvtr</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="218.981268 30.0427748 497.787374 0.0209018586 775.00273 30.0427748 993.002323 320.076494 497 896.061096 0.953857422 320.076494"></polygon>
+        <linearGradient x1="28.7540427%" y1="30.6154677%" x2="94.1091651%" y2="10.6488517%" id="linearGradient-3">
+            <stop stop-color="#DADADA" offset="0%"></stop>
+            <stop stop-color="#ECECEC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="28.7540427%" y1="30.6154677%" x2="94.1091651%" y2="10.6488517%" id="linearGradient-4">
+            <stop stop-color="#DADADA" offset="0%"></stop>
+            <stop stop-color="#EBEBEB" offset="97.9811065%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flat-Copy">
+            <g id="Icon-512" transform="translate(15.000000, 64.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FEEEB7" xlink:href="#path-1"></use>
+                <polygon id="Bottom-right" fill="#B2B2B2" mask="url(#mask-2)" transform="translate(745.000763, 607.978577) scale(1, -1) translate(-745.000763, -607.978577) " points="791.031616 895.961609 993.001526 895.961609 497 319.995544"></polygon>
+                <polygon id="Bottom-left" fill="#B1B1B1" mask="url(#mask-2)" transform="translate(249.000000, 608.051453) scale(-1, -1) translate(-249.000000, -608.051453) " points="295.03009 896.102905 497 896.102905 1 320"></polygon>
+                <polygon id="Bottom-center" fill="#E1E1E1" mask="url(#mask-2)" transform="translate(496.971924, 608.032013) scale(1, -1) translate(-496.971924, -608.032013) " points="202.971924 896.055908 790.971924 895.907532 497.015139 320.008118"></polygon>
+                <polygon id="Top-rigth" fill="url(#linearGradient-3)" mask="url(#mask-2)" points="774.990885 30.0035548 791.052429 319.986694 497.798828 0.0385742188"></polygon>
+                <polygon id="Right" fill="#DBDBDB" mask="url(#mask-2)" points="774.990885 30.0035548 791.052429 319.986694 992.994141 319.986694"></polygon>
+                <polygon id="Left" fill="#DBDBDB" mask="url(#mask-2)" transform="translate(110.002360, 174.991570) scale(-1, 1) translate(-110.002360, -174.991570) " points="1.00146484 30 17.0630091 319.98314 219.003256 319.98314"></polygon>
+                <polygon id="Top-let" fill="url(#linearGradient-4)" mask="url(#mask-2)" transform="translate(350.389424, 159.992287) scale(-1, 1) translate(-350.389424, -159.992287) " points="481.717303 29.9649806 497.778847 319.94812 203 0.0364540502"></polygon>
+                <polygon id="Top-center" fill="#F1F1F1" mask="url(#mask-2)" points="203.008423 319.986694 791.008423 319.986694 497.776767 0.0385742188"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
